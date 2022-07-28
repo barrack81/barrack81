@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barrack
 - 👀 I’m interested in computing and technology
-- 🌱 I’m currently learning python pogramming in AI and robotics
+- 🌱 I’m currently majoring on machine and deep learning
 - 💞️ I’m looking to collaborate on development
 - 📫 How to reach me whatsapp +254719733976 email: barrackroy81@gmail.com
 
